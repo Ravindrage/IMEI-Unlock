@@ -1,9 +1,6 @@
 # IMEI-Unlock
 IMEI unlock  System with admin panel 
 
-   r\
-
-
 Basic search & filters (by IMEI, status, date)
 
 Note: CRUD stands for Create, Read, Update, Delete — the core operations used to manage persistent data in web apps. 
@@ -29,5 +26,10 @@ MySQL 5.7+ or MariaDB
 Webserver: Apache or Nginx (or PHP built-in server for development)
 
 Composer only if you add dependencies (base project requires none)
+
+## Support this project
+[<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate with PayPal">](https://www.paypal.me/YourPayPalID)
+**Buy me a milk glass **
+
 
 Add new features
