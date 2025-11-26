@@ -29,7 +29,7 @@ Composer only if you add dependencies (base project requires none)
 
 ## Support this project
 [<img src="https://i.ibb.co/3kX2F6Q/milk-glass.png" alt="Buy a milk glass" width="200">](https://www.paypal.com/ncp/payment/SZLXSSH7L3DJ6)
-**Buy me a milk glass **
+** **
 
 
-Add new features
+Which Feature Should I Add 
